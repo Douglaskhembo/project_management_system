@@ -1,6 +1,6 @@
 import React from "react";
 
-const Create = ()=>{
+const Create =() =>{
     return(
         <div>Create</div>
     )
